@@ -1,1 +1,4 @@
-# TB_PMobile_2006187
+# navigator_apps
+
+praktikum pertemuan ke 05
+membahasa mengenai layouting dan navigator 2.0
